@@ -1,3 +1,6 @@
+// Name: Durjoy Kumar
+//ID:    2221126
+
 document.addEventListener("DOMContentLoaded", () => {
     const buttons = document.querySelectorAll("button");
 
